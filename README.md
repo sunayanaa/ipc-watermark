@@ -21,7 +21,7 @@ The method achieves:
 ---
 
 ## Repository Structure
-
+```
 ipc-watermark/
 │
 ├── 00_data_generation.py          # Stage 0: Corpus generation
@@ -38,7 +38,7 @@ ipc-watermark/
 ├── 200-musiccaps_prompts.xlsx     # 200 music prompts selected in 00_data_generation.py
 │
 └── README.md
-
+```
 ---
 
 ## Experimental Pipeline
